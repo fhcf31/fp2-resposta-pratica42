@@ -7,8 +7,8 @@
  *
  * @author Fernando
  */
-import utfpr.dainf.if62c.pratica.Circulo;
-import utfpr.dainf.if62c.pratica.Elipse;
+import utfpr.ct.dainf.if62c.pratica.Circulo;
+import utfpr.ct.dainf.if62c.pratica.Elipse;
 
 public class Pratica42 {
      public static void main(String[] args){
